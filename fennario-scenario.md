@@ -1,5 +1,11 @@
 # Fennario Scenario
 
+## Suggested Play
+
+ * Nathan plays Jackson Stone
+ * Everyone else plays ancillary characters of their choice as 
+   they come and go
+
 ## Aarons Fen 
 
 Aarons fen is located in the low foot hills of a mountain range.  Its
@@ -22,13 +28,14 @@ Warg war.  Practically he is probably just a local Warg who heard
 tales of the war and wants a piece for himself.
 
 Wil raids Aarons Fen and kidnaps Peggy while most of the village is 
-fending off ravenous, raging bears.  There are obvious warg and bear 
+fending off ravenous, raging bears.  There are obvious Warg and Bear 
 tracks entering then leaving from the road leading to the west.
 
 ### Around town
 
-Everyone is busy rebuilding and will try to constantly put Jackson 
-off if he is not persistent.  
+Everyone is busy rebuilding and will try to constantly put Jackson off
+if he is not persistent.  Willow and the Geezers will talk to Jackson
+because they wouldnt be helping repair anyway.
 
 ### On the trail
 
@@ -89,26 +96,70 @@ A cunning use of bear related magics specialized in by warg ursomancers.
  * Food Compulsion - Nearby bears have the strong impression food is
    hiding behind or in something
 
-### Pigators 
+### Fen Dwellers
+
+#### Pigators 
 
  * Half way between a pig and an alligator, with the loyalty and
    friendliness of a trained attack dogs.  They have an incredible
    sense of smell, and can be single minded once tracking.
 
+#### Sharkoppotumuses
+
+ * Viscious Fen Dwelling predators
+ * Sensitive to spicy food
+ * Seems to have an affinity for sweets (esp marshmellows)
+
+#### Octoturtle
+
+ * An eight tentacled turtle critter. Cute and pretty defensible
+ * Not usually aggresive, make good pets, but are plentiful here
+ * Great in soup
+
+## Places
+
+ * Aarons Fen - Small city central to the plot surrounded by swamp
+
+ * Fens to the east of town are swarming with sharkoppomusses right
+   now
+
+ * Abandoned Mine - north of town
+
+ * Beggars Yurt - west of town on the edge of the woods in the
+   foothills
+
+ * Bear Caves - in the foot hills North West of the beggars Yurt (west
+   of the mine)
+
+ * Fens - have roaming Sharkoppotumuses and octoturtles, hope you
+   brought your pigator
+
+ * Warg layer - a shack in a high spot in the fens south west of town
+   Lonely but guarded by a couple of stupified, sloppily ursomanced
+   bears.  Pretty depressing and definitely in need of a womanly touch
+
 ## Dramatis Personae
 
- * Wil Elm - A vicious warg ursomancer who kidnapped Peggy to make her
-   his bride at the coming full moon hunt (1 week after).  This giant 
-   wolf like beast mances bears and is looking for love in all the 
-   wrong species.
+ * Jackson Stone - Our hero, a young farm lad who has been in love
+   with Peggy his whole life.  Very physically fit and smarter than
+   most people know.  Howevery he has basically no weapon training
+   other than his trusty hoe.
 
- * Peggy O'Connor - A young lass kidnapped by the viscious warg
-   ursomancer Wil Elm.  Considered by jackson to be the prettiest girl 
-   in the whole world.
+ * Wil Elm - The enemy, a vicious warg ursomancer who kidnapped Peggy
+   to make her his bride at the coming full moon hunt (1 week after).
+   This giant wolf like beast mances bears and is looking for love in
+   all the wrong species.
 
- * Jackson Stone - A young farm lad who has been in love with Peggy his 
-   whole life.  Very physically fit and smarter than most people know.  
-   Howevery he has basically no weapon training other than his trusty hoe.
+ * Peggy O'Connor - The object of their obsesion, a young lass
+   kidnapped by the viscious warg ursomancer Wil Elm.  Considered by
+   Jackson to be the prettiest girl in the whole world. Has a pet
+   flying squirrle named Jimbo Bigcheeks.
+
+### Towns Folk
+
+ * Jimbo Bigcheeks - Cute as a button and calming to young
+   women. Jimbo is currently hiding in Peggy's overcoat pocket (which
+   is by the door in her home).  Has a nack for finding Peggy
 
  * Precious : Jacksons loyal pet pigator. The largest and most vicious of
    all the pigators on the Jackson farm.  Pretty smart for a pigator but
@@ -122,18 +173,11 @@ A cunning use of bear related magics specialized in by warg ursomancers.
    wealthiest family around. Perhaps this is Jacksons chance to prove 
    himself to them?
 
- * Usher Cramitz - A blind beggar (who it can be discovered, is a Warg
-   War vet, blinded by bear claws).  Very private and prone to
-   flashbacks.  Has has a pendant that (if you can get him to talk
-   about it) has the potential to protect against ursomancy (Food is
-   never behind or inside of the wearer, and the wearer is never
-   endangering the cubs).  A bit of a surly drunk now, he his mostly
-   ignored as a lunatic by the good fen folk.  Hard to find has a yurt
-   in the foothills and hides in the mine when his flashbacks are bad.
-
- * Willow Broomshoot - A local crone who provides medicine and wisdom to 
-   those in need. Genial but distant and pretty odd. Trusted by everyone
-   but loved by few.  She lives in a shack on the far south side of town
+ * Sue Samson - Peggy's best friend is in totaly hysteria about this
+   event, She was right there when the Warg stole Peggy (why do the
+   guys always go for her!), so she might have heard where he was
+   taking her. So hysterical she will be hard to talk to and is prone
+   to hyperventilating and feignting.
 
  * Stone Family - A large family that works one of the local farms.  They 
    raise pigators and rice. The pigators help guard the rice farm.
@@ -166,7 +210,9 @@ A cunning use of bear related magics specialized in by warg ursomancers.
    back to town when the bears attacked.  A hard bitten women with a
    reputation for her appetites and fierce attitude.  Close "friends"
    with Gensom Ginman whenever shes not a field or a fen.  Best 
-   townsperson with tracking, hunting and woodsman skills.
+   townsperson with tracking, hunting and woodsman skills.  Has access 
+   to a hidden fen boat.  Its her lively hood and is fully stocked with 
+   fen hunting gear.
 
  * Jeckle Ketch - The towns largest lumber man.  Has an axe that is as 
    tall as he is.  Really busy cutting wood for repairs and new defenses
@@ -174,6 +220,44 @@ A cunning use of bear related magics specialized in by warg ursomancers.
  * Judge Sherrif Quimby - Big Jims right hand man, and the law in
    these parts was sleeping off a bender in his own drunk tank when
    the bears attacked.  Locked himself in to "protect the prisoners".
+
+### Suburbs
+
+ * Willow Broomshoot - A local crone who provides medicine and wisdom to 
+   those in need. Genial but distant and pretty odd. Trusted by everyone
+   but loved by few.  She lives in a shack on the far south side of town
+
+ * Usher Cramitz - A blind beggar (who it can be discovered, is a Warg
+   War vet, blinded by bear claws).  Very private and prone to
+   flashbacks.  Has has a pendant that (if you can get him to talk
+   about it) has the potential to protect against ursomancy (Food is
+   never behind or inside of the wearer, and the wearer is never
+   endangering the cubs).  A bit of a surly drunk now, he his mostly
+   ignored as a lunatic by the good fen folk.  Hard to find has a yurt
+   in the foothills and hides in the mine when his flashbacks are bad.
+
+ * Bertha Bloomsmith - Hidden high above the mine on a cliff, this
+   lonely Wargess longs for a romance.  Spends her days wanding the
+   high lonely cliffs singing haunting Warg songs.  Vague friends with
+   Usher who can barely stand people due to flash backs but never
+   reacts badly to this actual Wargess.  Perhaps they share the a
+   sense of isolation, and a longing for any acceptable contact. 
+   Might be another love interest for Wil Elm.
+
+### Bears
+
+ * Griff McGruff - A leader in the bear resistance who is fighting
+   to be out from the oppresive thumb of the ursomancers.
+   Unfortunately he hasnt yet found a way to resist their magics.  If
+   spoken to in the right way at the right time he could be an
+   ally. He would be greatly benefited by an ursomancy protection
+   amulet.  Has a black band tied around his arm to identify him as a
+   resister.  
+
+ * Paul Parsons - A chunky bear who managed to resist the ursomancy
+   because he was currently stuck in a hole in a cave where he thought
+   he smelled hunny. If you find him he would be an easy bear to talk to 
+   and could introduce you to Griff.
    
 
 ## Item Suggestions 
@@ -189,6 +273,13 @@ A cunning use of bear related magics specialized in by warg ursomancers.
  * Table Wine
  * Seasonings and foods
  * Matches
+ * Honey
+
+### General Store
+ * Candy
+ * Tea
+ * Food 
+ * Tack
 
 ### Hunting Items
  * line for traps / snares
@@ -200,11 +291,14 @@ A cunning use of bear related magics specialized in by warg ursomancers.
  * Hoes, shovels etc
 
 ### People Items
- * War Vets Ammulet (see Usher Cramitz)
+ * War Vets Ammulet (see Usher Cramitz and Griff McGruff)
  * Peggy's Favorite Hair Brush (found while tracking Wil Elm)
  * Hunters bear piss - you too can smell like a bear pissed on you
  * Crones herb bag - Maybe these will heal you or maybe they 
    will make you see funny colors, only one way to find out
  * Barrel of Grog, (see Gensom Ginman)
+ * Warg Lute - war vets yurt, a relic from the war, said to be
+   irresistable to Wargesses
+
 
 
