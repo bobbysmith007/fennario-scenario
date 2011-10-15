@@ -11,10 +11,11 @@ and west along the foot hills.
 
 ## Plot
 
-Wil Elm has come down to claim his tribute of a bride from the people 
-of Aarons Fen.  He has choosen Jackson Stones one true love 
-Peggy O'Connor.  Jackson and Peggy have been in love forever, but now
-he must venture forth into Fennario to find and save her from Wil Elm.
+Wil Elm, a warg ursomancer, has come down to claim his tribute of a
+bride from the people of Aarons Fen.  He has choosen Jackson Stones
+one true love Peggy O'Connor.  Jackson and Peggy have been in love
+forever, but now he must venture forth into Fennario to find and save
+her from Wil Elm.
 
 In a sense Wil Elm is repeating the demands of the Wargs during the
 Warg war.  Practically he is probably just a local Warg who heard 
@@ -24,6 +25,11 @@ Wil raids Aarons Fen and kidnaps Peggy while most of the village is
 fending off ravenous, raging bears.  There are obvious warg and bear 
 tracks entering then leaving from the road leading to the west.
 
+### Around town
+
+Everyone is busy rebuilding and will try to constantly put Jackson 
+off if he is not persistent.  
+
 ### On the trail
 
 The trails forks in every direction after rounding the foothills.  The
@@ -32,6 +38,13 @@ be crushed reads that indicate a boat landing from the fens to the
 south.  There are also plenty of bear tracks leading into the
 mountains.  A small yurt can be seen on the edge of the woods up in
 the foothills by someone with sufficient tracking skills or eyesight.
+This and the mine are good places to find the beggar
+
+### When Peggy is found
+
+She is under the spell of the Warg and must be roused back to her true
+love.  A diamond for a wedding ring, her favorite hair brush and
+memories of their previous dates / love can all help.
 
 ## World Lore
 
@@ -42,8 +55,12 @@ the towns only diamond mine has been closed since nigh 20 years past.
 
 Secretly there were rumors of a "bear skinned ghost" taking up
 residence.  This is really just Usher Cramitz on a bender and dressed
-in his Wark war uniform (only Usher and perhaps Willow know this).
+in his Warg war uniform (only Usher and perhaps Willow know this).
 However, this and a minor shaft collapse largely shutdown the mine.
+
+Peggy and Jackson have had secret dates here before.  Might have seen
+a large diamond sticking out a wall before a minor collapse (or
+something similar)
 
 ### Warg War and Ursomancers
 
@@ -59,11 +76,16 @@ here and now.
 ### Ursomancy
 
 A cunning use of bear related magics specialized in by warg ursomancers.
+
  * Winters fur - grants slower movement and better cold resist
+
  * Hibernate - raises defence, lowers food needs, make sleep
+
  * Call/Disperse all bears - Call nearby bears to the aid of the ursomancer
+
  * Ravaging Claws - nearby bears attack viciously in a "protecting the
    cubs" rage
+
  * Food Compulsion - Nearby bears have the strong impression food is
    hiding behind or in something
 
@@ -105,8 +127,9 @@ A cunning use of bear related magics specialized in by warg ursomancers.
    flashbacks.  Has has a pendant that (if you can get him to talk
    about it) has the potential to protect against ursomancy (Food is
    never behind or inside of the wearer, and the wearer is never
-   endangering the cubs).  A bit of a surly drunk now, he his mostly ignored
-   as a lunatic by the good fen folk.
+   endangering the cubs).  A bit of a surly drunk now, he his mostly
+   ignored as a lunatic by the good fen folk.  Hard to find has a yurt
+   in the foothills and hides in the mine when his flashbacks are bad.
 
  * Willow Broomshoot - A local crone who provides medicine and wisdom to 
    those in need. Genial but distant and pretty odd. Trusted by everyone
@@ -133,7 +156,8 @@ A cunning use of bear related magics specialized in by warg ursomancers.
 
  * Jeremy Grimble - The dark "edgy" orphan kid in town.  Often dresses
    in dark colors and has been seen to sit in dark corners, smoking,
-   with eyes cast down.  Works odd jobs for the local butcher.
+   with eyes cast down.  Works odd jobs for the local butcher. (Shifty,
+   and good with knives).
  
  * Brandon Burger -  The town butcher, specializing in pigator mignon.
    Has access to lots of sharp objects.
@@ -145,7 +169,7 @@ A cunning use of bear related magics specialized in by warg ursomancers.
    townsperson with tracking, hunting and woodsman skills.
 
  * Jeckle Ketch - The towns largest lumber man.  Has an axe that is as 
-   tall as he is. 
+   tall as he is.  Really busy cutting wood for repairs and new defenses
 
  * Judge Sherrif Quimby - Big Jims right hand man, and the law in
    these parts was sleeping off a bender in his own drunk tank when
@@ -158,6 +182,7 @@ A cunning use of bear related magics specialized in by warg ursomancers.
  * Pick Axe
  * Box of unstable dynamite and lengths of fuse
  * Shovels
+ * A Diamond (perhaps for a ring)
 
 ### Kitchen Items
  * Knives and other utensils, pots and pans
