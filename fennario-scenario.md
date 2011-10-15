@@ -21,9 +21,29 @@ Warg war.  Practically he is probably just a local Warg who heard
 tales of the war and wants a piece for himself.
 
 Wil raids Aarons Fen and kidnaps Peggy while most of the village is 
-fending off ravenous, raging  bears.
+fending off ravenous, raging bears.  There are obvious warg and bear 
+tracks entering then leaving from the road leading to the west.
+
+### On the trail
+
+The trails forks in every direction after rounding the foothills.  The
+most obvious tracks dispersing into the woods, thought there seems to
+be crushed reads that indicate a boat landing from the fens to the
+south.  There are also plenty of bear tracks leading into the
+mountains.  A small yurt can be seen on the edge of the woods up in
+the foothills by someone with sufficient tracking skills or eyesight.
 
 ## World Lore
+
+### Abandoned Diamond Mine
+
+Its not discussed why (other than that the owners are super rich), but
+the towns only diamond mine has been closed since nigh 20 years past.
+
+Secretly there were rumors of a "bear skinned ghost" taking up
+residence.  This is really just Usher Cramitz on a bender and dressed
+in his Wark war uniform (only Usher and perhaps Willow know this).
+However, this and a minor shaft collapse largely shutdown the mine.
 
 ### Warg War and Ursomancers
 
@@ -50,7 +70,8 @@ A cunning use of bear related magics specialized in by warg ursomancers.
 ### Pigators 
 
  * Half way between a pig and an alligator, with the loyalty and
-   friendliness of a trained attack dogs
+   friendliness of a trained attack dogs.  They have an incredible
+   sense of smell, and can be single minded once tracking.
 
 ## Dramatis Personae
 
@@ -109,6 +130,27 @@ A cunning use of bear related magics specialized in by warg ursomancers.
  * Eddie - Jacksons best friend from the farm next door.  Always helping get
    Jackson into and out of trouble. Constantly teases Jackson about his 
    unrequitable Peggy love
+
+ * Jeremy Grimble - The dark "edgy" orphan kid in town.  Often dresses
+   in dark colors and has been seen to sit in dark corners, smoking,
+   with eyes cast down.  Works odd jobs for the local butcher.
+ 
+ * Brandon Burger -  The town butcher, specializing in pigator mignon.
+   Has access to lots of sharp objects.
+
+ * Jenny Fieldner - One of the towns primary hunters.  Had just gotten
+   back to town when the bears attacked.  A hard bitten women with a
+   reputation for her appetites and fierce attitude.  Close "friends"
+   with Gensom Ginman whenever shes not a field or a fen.  Best 
+   townsperson with tracking, hunting and woodsman skills.
+
+ * Jeckle Ketch - The towns largest lumber man.  Has an axe that is as 
+   tall as he is. 
+
+ * Judge Sherrif Quimby - Big Jims right hand man, and the law in
+   these parts was sleeping off a bender in his own drunk tank when
+   the bears attacked.  Locked himself in to "protect the prisoners".
+   
 
 ## Item Suggestions 
 
